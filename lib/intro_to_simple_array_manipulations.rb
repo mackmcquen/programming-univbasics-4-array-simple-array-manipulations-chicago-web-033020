@@ -8,5 +8,5 @@ end
   
 def using_pop(array, string)
  array.pop["Antartica"]
- ["Antartica"] = using_pop(array)
+ ["Antartica"] = using_pop(
 end
